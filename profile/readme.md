@@ -1,5 +1,3 @@
-# AG Custom
-
 ## Sobre a Organização
 
 Fundada em 2025 por dois colegas da área de Tecnologia da Informação, a **AG Custom** nasceu com o propósito de oferecer soluções digitais sob medida, como websites, aplicativos e sistemas personalizados.
